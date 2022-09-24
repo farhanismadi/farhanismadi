@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Farhan Ismadi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/HastyAntiqueBetafish-max-1mb.gif">
+<img align="right" alt="Coding" width="500" src="https://thumbs.gfycat.com/HastyAntiqueBetafish-max-1mb.gif">
 
 - 🔭 I’m currently working on **React Project**
 
