@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/farhanismadi/farhanismadi/blob/main/banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Farhan Ismadi</h1>
-<h3 align="center">A frontend developer from Indonesia</h3>
+<h3 align="center">A frontend developer from Indonesia <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/twitter/322/flag-indonesia_1f1ee-1f1e9.png" width="25px"></h3>
 <img align="right" alt="Coding" width="350" src="https://github.com/farhanismadi/farhanismadi/blob/main/image.gif">
 
 - 💻 I’m currently working on **React Project**
