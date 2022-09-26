@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/farhanismadi/farhanismadi/blob/main/banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Farhan Ismadi</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="350" src="">
+<h3 align="center">A frontend developer from Indonesia</h3>
+<img align="right" alt="Coding" width="350" src="https://github.com/farhanismadi/farhanismadi/blob/main/image.gif">
 
 - 💻 I’m currently working on **React Project**
 
