@@ -1,3 +1,4 @@
+<img src="https://github.com/farhanismadi/farhanismadi/blob/main/banner.gif">
 <h1 align="center">Hi 👋, I'm Muhammad Farhan Ismadi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/HastyAntiqueBetafish-max-1mb.gif">
