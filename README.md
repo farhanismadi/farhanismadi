@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on **React Project**
 
-- 🐱‍💻 I’m currently learning **React**
+- 🙇 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, JavaScript & Bootstrap**
 
