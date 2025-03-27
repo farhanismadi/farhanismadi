@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Muhammad Farhan Ismadi</h1>
-<h3 align="center">A frontend developer from Indonesia <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/twitter/322/flag-indonesia_1f1ee-1f1e9.png" width="25px"></h3>
+<h1 align="center">Hi, I'm Muhammad Farhan Ismadi</h1>
+<h3 align="center">A Fullstack Web Developer From Indonesia</h3>
 
-💻 I’m currently working on **React Project**
-🙇 I’m currently learning **React**
-💬 Ask me about **Web Programming**
-📫 How to reach me **muhammadfarhanismadi@gmail.com**
+💻 I’m currently working on **React Project** <br/>
+🙇 I’m currently learning **React** <br/>
+💬 Ask me about **Web Programming** <br/>
+📫 How to reach me **muhammadfarhanismadi@gmail.com** <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad farhan ismadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad farhan ismadi" height="30" width="40" /></a>
-<a href="https://instagram.com/farhan_project" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhan_project" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/muhammadfarhanismadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfarhanismadi" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
