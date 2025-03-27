@@ -1,7 +1,6 @@
 [![MasterHead](https://github.com/farhanismadi/farhanismadi/blob/main/banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Farhan Ismadi</h1>
 <h3 align="center">A frontend developer from Indonesia <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/twitter/322/flag-indonesia_1f1ee-1f1e9.png" width="25px"></h3>
-<img align="right" alt="Coding" width="350" src="https://github.com/farhanismadi/farhanismadi/blob/main/image.gif">
 
 - 💻 I’m currently working on **React Project**
 
@@ -35,8 +34,8 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
