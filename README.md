@@ -31,13 +31,4 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> 
  
-<br />
-<br />
-<br />
 
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanismadi&show_icons=true&locale=en&layout=compact" alt="farhanismadi" width="400"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanismadi&show_icons=true&locale=en" alt="farhanismadi" width="400"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanismadi&" alt="farhanismadi" width="400"/></p>
