@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/farhanismadi/farhanismadi/blob/main/Banner-Github.gif)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Muhammad Farhan Ismadi</h1>
 <h3 align="center">A Fullstack Web Developer From Indonesia</h3>
 
