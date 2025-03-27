@@ -3,15 +3,11 @@
 <h3 align="center">A Fullstack Web Developer From Indonesia</h3>
 
 💻 I’m currently working on **React Project** <br/>
-🙇 I’m currently learning **React** <br/>
+🙇 I’m currently learning **Typescript** <br/>
 💬 Ask me about **Web Programming** <br/>
 📫 How to reach me **muhammadfarhanismadi@gmail.com** <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-farhan-ismadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfarhanismadi" height="30" width="40" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">PROGRAMMING LANGUAGES & TOOLS:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,6 +40,8 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-
+<h3 align="left">connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-farhan-ismadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfarhanismadi" height="30" width="40" /></a>
  
 
