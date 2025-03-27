@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Farhan Ismadi</h1>
 <h3 align="center">A frontend developer from Indonesia <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/twitter/322/flag-indonesia_1f1ee-1f1e9.png" width="25px"></h3>
 
-- 💻 I’m currently working on **React Project**
-
-- 🙇 I’m currently learning **React**
-
-- 💬 Ask me about **HTML, CSS, JavaScript & Bootstrap**
-
-- 📫 How to reach me **muhammadfarhanismadi@gmail.com**
+💻 I’m currently working on **React Project**
+🙇 I’m currently learning **React**
+💬 Ask me about **Web Programming**
+📫 How to reach me **muhammadfarhanismadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
