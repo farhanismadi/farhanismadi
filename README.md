@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/farhanismadi/farhanismadi/blob/main/Banner-Github.gif)](https://www.linkedin.com/in/muhammad-farhan-ismadi/)
+[![MasterHead](https://github.com/farhanismadi/farhanismadi/blob/main/Banner.gif)](https://www.linkedin.com/in/muhammad-farhan-ismadi/)
 <h1 align="center">Hi, I'm Muhammad Farhan Ismadi</h1>
 <h3 align="center">A Fullstack Web Developer From Indonesia</h3>
 
